@@ -6,7 +6,7 @@ import comm from "../../assets/comm.png";
 import greendots from "../../assets/greendots.png";
 import blackdots from "../../assets/blackdots.png";
 import plus from "../../assets/plus.png";
-import Animation from "../../assets/Animation.GIF"
+import Animation from "../../assets/Animation.gif"
 
 const OurApproach = () => {
   return (
