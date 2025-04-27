@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+
+
+  font-synthesis: none;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+ 
+  background-color: #0C1B18;
+  min-width: 320px;
+  min-height: 100vh;
+ 
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border: 1px inset #b7dc38;
+  font-size: 1em;
+  font-family: inherit;
+  cursor: pointer;
+  transition: .6s;
+}
+
+
