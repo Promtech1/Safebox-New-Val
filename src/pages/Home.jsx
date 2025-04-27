@@ -1,5 +1,5 @@
 import React from "react";
-import HomeIntro from "../components/Home/homeIntro";
+import HomeIntro from "../components/Home/HomeIntro";
 import OurApproach from "../components/Home/OurApproach";
 import InnovateSolutions from "../components/Home/InnovateSolutions";
 import CaseStudiesTestimonials from "../components/Home/CaseStudiesTestimonials";
